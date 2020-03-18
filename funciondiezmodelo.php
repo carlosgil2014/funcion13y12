@@ -52,6 +52,7 @@ class examenModelo{
             echo $resultado;
             echo $resul = (153 % 10) ;
             echo $aa = ($resul % 10-10);
+            //prueba de git
             //return 'Válida';
             /*if($matriz1[12] == (10 % 10-10)){
                 return 'Válida';
